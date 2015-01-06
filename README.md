@@ -1,2 +1,3 @@
-algorithms
+Algorithms (C++)
 ==========
+For technopark project.
